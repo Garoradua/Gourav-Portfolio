@@ -19,13 +19,16 @@ i {
 }
 .fixed-content {
   width: auto;
-
+  background-color: rgb(58, 58, 55);
   float: none;
   display: block;
   margin-right: auto;
   margin-left: auto;
   padding: 40px;
   text-align: center;
+}
+.fixed-content pre{
+  color: white;
 }
 .header {
   background-image: url('../img/Wajima.jpg');
